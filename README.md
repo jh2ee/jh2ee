@@ -2,7 +2,9 @@
 
 ## Hi I'm jh2ee
 
-currnetly learning React
+currnetly learning ML & Deep Learning
+Research Interest : ML, Deep Learning, Computer Vision
+
 <br><br>
 
 ### :floppy_disk: Stacks
